@@ -1,12 +1,26 @@
-## Objetivo
-- Aprimorar conhecimento em Node.js
+# 🚀 Node-Express-Sequelize
 
-## Tecnologia 
+**Aplicação backend demonstrando operações CRUD com Node.js, Express e Sequelize integradas a PostgreSQL.**
+
+---
+
+## 🧑‍💻 Desenvolvedor(a)
+
+**Gabriele Soares Quevedo**
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
 - JavaScript
 - Node.js
 - Express
 - Sequelize
 - PostgreSQL
 
-## Função do projeto
-- Funções CRUD integrado com o banco de dados PostgreSQL
+---
+
+## 💻 Ambiente de Desenvolvimento
+
+- VS Code
+
