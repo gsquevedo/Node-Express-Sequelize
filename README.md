@@ -18,16 +18,21 @@
 - Sequelize
 - PostgreSQL
 
-## 🎯 Objetivo
-- Aprimorar conhecimentos em Node.js e desenvolvimento backend.
-- Praticar integração entre Express e Sequelize com banco de dados PostgreSQL.
-
-## ⚙️ Função do Projeto
-- Implementação de operações CRUD (Create, Read, Update, Delete) integradas ao banco de dados PostgreSQL
-
 ---
 
 ## 💻 Ambiente de Desenvolvimento
 
 - VS Code
+
+---
+
+## 🎯 Objetivo
+- Aprimorar conhecimentos em Node.js e desenvolvimento backend.
+- Praticar integração entre Express e Sequelize com banco de dados PostgreSQL.
+
+---
+
+## ⚙️ Função do Projeto
+- Implementação de operações CRUD (Create, Read, Update, Delete) integradas ao banco de dados PostgreSQL
+
 
